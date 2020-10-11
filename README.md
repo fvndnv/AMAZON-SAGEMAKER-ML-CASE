@@ -1,1 +1,1 @@
-# AMAZON-SAGEMAKER-ML-CASE
+# AWS-SageMaker
